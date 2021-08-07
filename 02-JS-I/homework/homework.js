@@ -1,6 +1,5 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
-const gitRemoteOriginUrl = require("git-remote-origin-url");
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = "Hola mundo";
@@ -259,5 +258,5 @@ module.exports = {
   retornarPerimetro,
   areaDelTriangulo,
   deEuroAdolar,
-  esVocal
+  esVocal,
 };
