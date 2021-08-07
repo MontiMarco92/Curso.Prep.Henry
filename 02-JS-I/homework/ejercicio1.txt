@@ -1,0 +1,25 @@
+-Variables:
+	Es una forma de almacenar un dato para luego ser utilizado dentro del codigo. 
+	Por ejemplo, se crea una variable con un determinado nombre a la que se le asigna un dato, 
+	el cual puede ser de diferentes tipos (cadena de texto o string, numero,booleano, etc.).
+	Esta iformacion almacenada en la variable puede ser recogida o utilizada durante una instancia
+	futura en la ejecucion del codigo.
+-String:
+	Es un tipo de dato de cadena de texto. Es interpretado por Javascript como texto y puede
+	tomar cualquier valor que deseemos siempre y cuando este "encerrado" entre comillas (").
+-Funciones (argumentos, return):
+	Las funciones son bloques de codigo que deben ser definidos en una instancia y que pueden ser reciclados 
+	o reutilizados en cualquier instancia futura dentro del programa. Por ejemplo, se puede definir
+	una funcion con un nombre, asignarle argumentos o no, y describir la serie de instrucciones que 
+	esta funcion va a llevar a cabo. Este bloque de codigo puede ser tan largo como se desee. 
+	Entonces, en una instancia posterior, todo este codigo puede ser ejecutado simplemente llamando
+	a la funcion previamente definida, sin la necesidad de reescribir todo el codigo una y otra vez.
+	Las funciones pueden tener argumentos que son empleados dentro del codigo bloque o no.
+	Todas las funciones devuelven un valor por defecto "undefined" a menos que se utilice
+	el comando "return" el cual instruira al codigo a devolver cierta informacion que uno quiera.
+-Declaraciones if:
+	Las declaraciones "if" forman parte del control de flujo del codigo y pertenecen a los normalmente
+	llamados "condicionales". Se utilizan para darle instrucciones a la computadora de ejecutar 
+	cierto codigo en el caso de que se cumpla cierta condicion.
+-Valores booleanos (true, false):
+	Los valores booleanos son un tipo de datos. Estos valores son de tipo verdadero-falso.
