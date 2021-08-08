@@ -1,0 +1,11 @@
+-for:
+    "for" es una expresion o statement empleado para realizar ciertas operaciones de forma repetitiva sin la necesidad
+    de tener que realmente escribir codigo repetitivo. Es conocido como "bucle" ya que ejecuta codigo mientras se cumpla una
+    de entrada tantas veces sea requerido hasta que se de una condicion de salida o "stop".
+&&, ||, !:
+    son operadores logicos (booleanos) que se emplean para determinar la veracidad de ciertas expresiones.
+    El operador && es conocido como la expresion "and" y evalua que dos o mas expresiones sean verdaderas o falsas (true or false),
+    es decir, ambas condiciones se deben cumplir.
+    El operador || conocido como "or" evalua que al menos una de dos o mas expresiones sean verdaderas.
+    El operador !, conocido como "Not" y devuelve la expresion opuesta a la que se le pase.
+
