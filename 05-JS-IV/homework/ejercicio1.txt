@@ -1,0 +1,18 @@
+-Objetos:
+    Los objetos son un conjunto de propiedades definidas por una relacion entre el nombre de dicha propiedad y su respectivo valor. 
+    Se definen empleando {} en lugar de [] como para los arrays, y guardan similaridad con estos ultimos ya que se puede acceder
+    al objeto empleando el nombre de la propiedad en lugar del indice como para acceder a los arrays.
+- Propiedades:
+    Las propiedades son la asociacion o relacion que existe entre un nombre o clave y su valor o "key". Las propiedades son los componentes
+    de los objetos.
+-Metodos:
+    Los metodos son basicamente funciones propias de un objeto
+-Bucle for...in:
+    Es un metodo de iteracion similar al bucle "for" empleado para los arrays. Sin embargo, como los objetos no presentan un valor
+    idexado para acceder a sus propiedades este ultimo bucle no funcionara. Por ello, se emplea este bucle "for..in" en donde se
+    declara una variable y se iterara a traves de todas las "claves" o nombres de propiedades del objeto.
+Notacion de puntos vs notacion de corchetes:
+    Son dos formas distintas de acceder a los valores de las propiedades de los objetos. Tal como se usan los corchetes para acceder
+    a los elementos de un array, se pueden usar los mismos para acceder a las "claves" de los objetos siempre y cuando se utilicen
+    "" cuando se quiera acceder. Por otro lado, tambien se puede utilizar la notacion de punto para acceder a las propiedades de un
+    objeto. En este caso, no es necesario el uso de "".
