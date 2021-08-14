@@ -1,0 +1,6 @@
+-Arrays:
+    Los arrays son listas de elementos. Dichos "elementos" que conforman los arrays o arreglos pueden ser distintos tipos de datos,
+    es decir, numeros, strings, booleanos, incluso funciones, otros arreglos (arreglos anidados) u objetos. La sintaxis para definir
+    arreglos es entre corchetes o brackets []. Los datos almacenados en arreglos pueden accederse a traves de los indices del arreglo
+    en donde se encuentran, es decir sus "posiciones" dentro del arreglo. Existen muchos funciones nativas o metodos para los arreglos
+    que nos facilita la ejecucion de distintas acciones sobre los datos almacenados en arreglos.
